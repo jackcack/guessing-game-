@@ -23,4 +23,3 @@ if guess == secretNum:
 else:
     print("nope the number I was thinking of is " + str(secretNum))
 
-print("you have taken " + str(guesses) + " guesses")
